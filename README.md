@@ -1,5 +1,7 @@
 ## *ESTE É O MEU PERFIL AMIGO🖖*
-
+Meu nome é Miguel Angelo Bracero Santarcangelo
+Sou aluno da escola integral
+Uso esse espaço para postar meus projetos
 <!--
 **miguelangelo2007/miguelangelo2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
